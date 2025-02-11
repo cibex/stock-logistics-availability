@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [stock_available_mrp](stock_available_mrp/) | 16.0.1.0.1 |  | Consider the production potential is available to promise
 [stock_available_unreserved](stock_available_unreserved/) | 16.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Quantity of stock available for immediate use
 [stock_free_quantity](stock_free_quantity/) | 16.0.1.0.0 |  | Stock Free Quantity
+[stock_quant_available_quantity](stock_quant_available_quantity/) | 16.0.1.0.0 | [![tisho99](https://github.com/tisho99.png?size=30px)](https://github.com/tisho99) | Shows Available Quantity in the stock quant views
 
 [//]: # (end addons)
 

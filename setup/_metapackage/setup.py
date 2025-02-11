@@ -17,6 +17,7 @@ setuptools.setup(
         'odoo-addon-stock_available_mrp>=16.0dev,<16.1dev',
         'odoo-addon-stock_available_unreserved>=16.0dev,<16.1dev',
         'odoo-addon-stock_free_quantity>=16.0dev,<16.1dev',
+        'odoo-addon-stock_quant_available_quantity>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
