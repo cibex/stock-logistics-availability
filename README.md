@@ -7,9 +7,13 @@
 
 <!-- /!\ do not modify above this line -->
 
-# Stock Availability modules
+# Stock Availability
 
- This repository contains modules to provide more information about product stock availability in terms of quantities
+This repository contains modules to provide more information about product stock availability in terms of quantities
+
+Are you looking for modules related to logistics? Or would like to contribute
+to? There are many repositories with specific purposes. Have a look at this
+[README](https://github.com/OCA/wms/blob/18.0/README.md).
 
 <!-- /!\ do not modify below this line -->
 
