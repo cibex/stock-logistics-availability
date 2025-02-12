@@ -14,6 +14,7 @@ setuptools.setup(
         'odoo-addon-stock_available_exclude_location>=16.0dev,<16.1dev',
         'odoo-addon-stock_available_immediately>=16.0dev,<16.1dev',
         'odoo-addon-stock_available_immediately_exclude_location>=16.0dev,<16.1dev',
+        'odoo-addon-stock_available_location_get_domain>=16.0dev,<16.1dev',
         'odoo-addon-stock_available_mrp>=16.0dev,<16.1dev',
         'odoo-addon-stock_available_unreserved>=16.0dev,<16.1dev',
         'odoo-addon-stock_free_quantity>=16.0dev,<16.1dev',
