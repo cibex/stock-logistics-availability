@@ -17,13 +17,13 @@ Consider the production potential is available to promise
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fstock--logistics--availability-lightgray.png?logo=github
-    :target: https://github.com/OCA/stock-logistics-availability/tree/17.0/stock_available_mrp
+    :target: https://github.com/OCA/stock-logistics-availability/tree/18.0/stock_available_mrp
     :alt: OCA/stock-logistics-availability
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/stock-logistics-availability-17-0/stock-logistics-availability-17-0-stock_available_mrp
+    :target: https://translation.odoo-community.org/projects/stock-logistics-availability-18-0/stock-logistics-availability-18-0-stock_available_mrp
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runboat-Try%20me-875A7B.png
-    :target: https://runboat.odoo-community.org/builds?repo=OCA/stock-logistics-availability&target_branch=17.0
+    :target: https://runboat.odoo-community.org/builds?repo=OCA/stock-logistics-availability&target_branch=18.0
     :alt: Try me on Runboat
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
@@ -80,15 +80,16 @@ Roadmap
 
 Possible improvements for future versions:
 
-- Take manufacturing delays into account: we should not promise goods to
-  customers if they want them delivered earlier that we can make them
-- Compute the quantity of finished product that can be made directly on
-  each Bill of Material: this would be useful for production managers,
-  and may make the computations faster by avoiding to compute the same
-  BoM several times when several variants share the same BoM.
-- Add an option (probably as a sub-module) to consider all raw materials
-  as available if they can be bought from the suppliers in time for the
-  manufacturing.
+-  Take manufacturing delays into account: we should not promise goods
+   to customers if they want them delivered earlier that we can make
+   them
+-  Compute the quantity of finished product that can be made directly on
+   each Bill of Material: this would be useful for production managers,
+   and may make the computations faster by avoiding to compute the same
+   BoM several times when several variants share the same BoM.
+-  Add an option (probably as a sub-module) to consider all raw
+   materials as available if they can be bought from the suppliers in
+   time for the manufacturing.
 
 Bug Tracker
 ===========
@@ -96,7 +97,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/stock-logistics-availability/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us to smash it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/stock-logistics-availability/issues/new?body=module:%20stock_available_mrp%0Aversion:%2017.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/stock-logistics-availability/issues/new?body=module:%20stock_available_mrp%0Aversion:%2018.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -111,27 +112,27 @@ Authors
 Contributors
 ------------
 
-- Loïc Bellier (Numérigraphe) <lb@numerigraphe.com>
+-  Loïc Bellier (Numérigraphe) <lb@numerigraphe.com>
 
-- Lionel Sausin (Numérigraphe) <ls@numerigraphe.com>
+-  Lionel Sausin (Numérigraphe) <ls@numerigraphe.com>
 
-- many thanks to Graeme Gellatly for his advice and code review
+-  many thanks to Graeme Gellatly for his advice and code review
 
-- Laurent Mignon <laurent.mignon@acsone.eu>
+-  Laurent Mignon <laurent.mignon@acsone.eu>
 
-- Cédric Pigeon <cedric.pigeon@acsone.eu>
+-  Cédric Pigeon <cedric.pigeon@acsone.eu>
 
-- Florian da Costa <florian.dacosta@akretion.com>
+-  Florian da Costa <florian.dacosta@akretion.com>
 
-- Joan Mateu <joan.mateu@forgeflow.com>
+-  Joan Mateu <joan.mateu@forgeflow.com>
 
-- `Tecnativa <https://www.tecnativa.com>`__:
+-  `Tecnativa <https://www.tecnativa.com>`__:
 
-  - Víctor Martínez
+   -  Víctor Martínez
 
-- `Trobz <https://trobz.com>`__:
+-  `Trobz <https://trobz.com>`__:
 
-     - Khoi Vo <khoivha@trobz.com>
+      -  Khoi Vo <khoivha@trobz.com>
 
 Maintainers
 -----------
@@ -146,6 +147,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/stock-logistics-availability <https://github.com/OCA/stock-logistics-availability/tree/17.0/stock_available_mrp>`_ project on GitHub.
+This module is part of the `OCA/stock-logistics-availability <https://github.com/OCA/stock-logistics-availability/tree/18.0/stock_available_mrp>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
